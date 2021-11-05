@@ -1,5 +1,5 @@
 <template>
-  <div class="flex bg-indigo-500 p-4">
+  <div class="flex bg-indigo-500 py-4 px-8">
     <div class="flex-auto text-white text-lg font-bold">
       Company.com
     </div>
